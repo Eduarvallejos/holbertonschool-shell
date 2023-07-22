@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp  -R shool hello
+chgrp  --recursivo shool hello
