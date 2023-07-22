@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --Recusive  664 hello
+chmod --reference=olleh hello
