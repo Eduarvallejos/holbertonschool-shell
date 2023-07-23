@@ -1,2 +1,2 @@
-#!/bin/bash
-chown --dereference vincent staff _hello .
+#!/bin/bash0
+chown --dereference=vincent:staff _hello .
