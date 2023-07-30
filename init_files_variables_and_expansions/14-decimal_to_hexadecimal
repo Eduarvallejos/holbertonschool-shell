@@ -1,0 +1,2 @@
+#!/bin/bash
+:WQecho "ibase=10;obase=16;$DECIMAL"
