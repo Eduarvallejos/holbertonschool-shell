@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | tr -d "o " | fold -w 2 
+echo {a..z}{a..z} | tr -d "o " | grep -v "oo" | fold -w 2 
